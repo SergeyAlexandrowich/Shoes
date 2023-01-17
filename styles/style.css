@@ -1,0 +1,490 @@
+header{
+			display: flex;
+flex-direction: column;
+width:100%;
+height: 80vh;
+margin-top: 30px;
+		}
+
+		.firstsection{
+			display: flex;
+			
+			width: 100%;
+			flex-direction: row;
+			justify-content: space-around;
+			height:5%;
+		}
+
+		.second{
+			display: flex;
+			flex-direction: row;
+			width:40%;
+			justify-content: space-between;
+			
+		}
+
+
+		.icons{
+			display: flex;
+			width: 10%;
+			justify-content: space-around;
+			align-items: center;
+			
+		}
+
+.icons>img{
+	width: 15%;
+	height: 60%;
+}
+.step{
+	
+	display: flex;
+	margin-left: 30px;
+	flex-direction: column;
+}
+h1{font-size: 70px}
+
+
+.buttom{
+background: white;
+	color: red;
+	border: 1px dashed red;
+	width: 150px;
+	height: 50px;
+	text-decoration: none;
+	text-align: center;
+			line-height: 50px;
+			display: inline-block;
+			font-size: 40px;
+}
+
+p{width: 100%;
+font-size:30px}
+
+.buttom2{
+background: red;
+	color: white;
+	border: 2px solid red;
+	border-radius: 30px;
+		width: 150px;
+	height: 50px;
+	text-decoration: none;
+	text-align: center;
+			line-height: 50px;
+			display: inline-block;
+			font-size: 20px;
+
+
+}
+
+.secondsection{
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	margin-top: 50px;
+	
+
+
+}
+
+
+.firstarticle{
+	width: 40%;
+	margin-left: 200px;
+	
+}
+
+.shoes{width: 60%;
+	
+	
+}
+
+.red{
+width:60%;
+
+}
+
+
+.redred{
+	
+	background-image:url(../1.png);
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	background-repeat: no-repeat;
+background-position: right;
+
+}
+
+.gadient{
+	position:relative ;
+	right: 0;
+}
+
+.fit{
+	width: 100%;
+	height: 35vh;
+	display: flex;
+	flex-direction: row;
+	background: red;
+
+}
+
+main{
+	width: 100%;
+}
+
+
+.sneakers{
+	width: 20%;
+	background-image: url(../21.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.grey{
+	width: 50%;
+	background-image: url(../22.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+
+
+
+.text10>p{width: 30%;
+
+text-align: center}
+
+.text10{
+	display: flex;
+	
+	
+	color: white;
+	justify-content: space-between;
+	
+	width: 80%;
+}
+.black>p{width: 50%}
+.black{
+	background: black;
+	height: 100%;
+	width: 30%;
+color: white;
+display: flex;
+align-items: center;
+text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.whiteshoes{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 300px;
+
+width:80%;
+
+margin-left: 200px;
+}
+
+
+.nike{
+	display: flex;
+	justify-content: flex-start;
+	width: 45%;
+	
+}
+
+.text{
+
+	
+	width: 100%;
+
+	margin-top: 30px;
+}
+.text2{
+	font-size: 20px;
+}
+
+.secondpart{
+	display: flex;
+	
+	flex-direction: column;
+	align-items: flex-start;
+margin-left: -500px;
+margin-top: -50px;
+}
+
+.grand{
+	width: 100%;
+
+	margin-left: -130px;
+
+}
+
+.big{font-size: 100px
+}
+
+
+
+.trend{
+	display: flex;
+	justify-content: center;
+	margin: 30px;
+	flex-direction: column;
+}
+
+
+.bigtext{
+	font-size: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+
+.vierzusammen{
+	width: 95%;
+	display: flex;
+
+	justify-content: space-around;
+	margin-left: 50px;
+
+}
+
+.nike{
+	display: flex;
+	justify-content:center ;
+	flex-direction: column;
+	width: 20%;
+}
+
+
+
+.air{
+	font-size: 30px;
+}
+
+
+
+.wear{ display:flex;
+justify-content:center;
+height: 40px;
+flex-direction: row;
+align-items: center;
+ }
+
+.bild{width: 10%;
+	height: 30px;
+
+}
+
+ .bigtext2{
+ 	font-size: 20px;
+ 	margin-left: 20px;
+ }
+
+ .buttom3{
+background: red;
+	color: white;
+	border: 2px solid red;
+	border-radius: 20px;
+		width: 335px;
+	height: 50px;
+	text-decoration: none;
+	text-align: center;
+			line-height: 50px;
+			display: inline-block;
+			font-size: 20px;
+			margin-top: 20px;
+}
+
+.reviews>p{
+	font-size: 20px;
+	font-family: 'Syne';
+	text-align: center;
+}
+
+.reviews>h2{
+	font-size: 55px;
+	font-family: 'Syne';
+text-align: center;
+}
+
+.reviews{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	
+	align-items: center;
+}
+
+
+.secondclass{display: flex;
+	align-items: center;
+	flex-direction: column;
+	
+	
+}
+
+.photos3{width:65%;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+
+.zwei{
+	display: flex;
+	flex-direction: column;
+	
+justify-content: space-between;
+}
+
+
+.bevorelast{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 80px;
+
+}
+
+.blue{
+	border-radius: 33px;
+	background-color: #A3B7F5;
+	width: 70%;
+	
+	flex-direction: row;
+	display: flex;
+
+}
+.bevorelast2>h2{
+	font-size: 30px;
+	font-family: 'Syne';
+}
+.bevorelast2{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	width: 60%;
+	
+	padding: 30px;
+
+}
+
+
+.bild2>img{
+	
+	width: 55%;
+}
+.bild2{
+	display: flex;
+	width: 40%;
+	
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: center;
+	height: 300px;
+}
+
+
+form>button{
+	background: red;
+	color: white;
+	border: 2px solid red;
+	border-radius: 20px;
+		width: 40%;
+	height: 40px;
+			font-size: 20px;
+			margin-top: 20px;
+}
+form{
+	display: flex;
+	flex-direction: column;
+width: 60%;
+}
+
+
+input{
+	height: 30px;
+	border-radius: 10px;
+	padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{width: 100%;
+background: black;
+height: 225px;
+display: flex;
+justify-content: space-around;
+margin-top: 40px;}
+
+
+dt{color: white;
+margin-left:37px;
+font-size:25px; }
+
+
+
+dd{color: white;
+font-size: 15px;
+margin-top: 10px;}
+
+.last{
+	font-size: 30px;
+	color: white;
+}
+
+dl{
+	margin-top: 40px;
+}
